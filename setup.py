@@ -35,7 +35,6 @@ setup(
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
     ],
     install_requires=[
-        'Django>=1.4',
         'lxml>=2.3.4',
         'six',
     ],
